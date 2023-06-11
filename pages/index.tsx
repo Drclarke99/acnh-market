@@ -10,6 +10,10 @@ export default function Home() {
       </Head>
       <Header />
       
+      <main>
+        <h1>Welcome to Nook's Cay</h1>
+        <h3>The #1 resource for your fishing needs</h3>
+      </main>
     </>
   )
 }
