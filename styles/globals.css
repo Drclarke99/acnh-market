@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .headerLink {
+        @apply text-lg text-[#49A2F5]
+    }
+}

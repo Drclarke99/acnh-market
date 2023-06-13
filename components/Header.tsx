@@ -14,10 +14,10 @@ function Header() {
       <div className="px-10">
         <ul className="flex items-center space-x-4">
           <Link href="/">
-            <li>Home</li>
+            <li className="headerLink">Home</li>
           </Link>
           <Link href="/fish">
-            <li>Browse</li>
+            <li className="headerLink">Browse</li>
           </Link>
         </ul>
       </div>
