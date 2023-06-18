@@ -4,6 +4,6 @@
 
 @layer components {
     .headerLink {
-        @apply text-lg text-[#49A2F5]
+        @apply text-lg text-[#49A2F5] font-semibold
     }
 }
