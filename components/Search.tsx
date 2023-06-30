@@ -6,7 +6,7 @@ function Search() {
         <input type="text" 
         className="bg-[#D9D9D9]"
         />
-        <button className="bg-[#9DFFB0] px-8 py-3 rounded-lg">
+        <button className="bg-[#9DFFB0] px-8 py-3 rounded-lg font-bold">
           Search
         </button>
     </div>
