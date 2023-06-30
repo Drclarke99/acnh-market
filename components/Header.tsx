@@ -2,7 +2,7 @@ import Link from "next/link";
 
 function Header() {
   return (
-    <header className="flex items-center justify-between">
+    <header className="flex items-center justify-between bg-[#C48D3F]">
       <div className="px-12 py-4">
         <img
           src="/logo.png"
@@ -12,7 +12,7 @@ function Header() {
       </div>
 
       <div className="px-10">
-        <ul className="flex items-center space-x-4">
+        <ul className="flex items-center space-x-12">
           <Link href="/">
             <li className="headerLink">Home</li>
           </Link>

@@ -4,6 +4,6 @@
 
 @layer components {
     .headerLink {
-        @apply text-lg text-[#49A2F5] font-semibold
+        @apply text-lg text-[#81F1F7] font-semibold hover:underline hover:decoration-2;
     }
 }
